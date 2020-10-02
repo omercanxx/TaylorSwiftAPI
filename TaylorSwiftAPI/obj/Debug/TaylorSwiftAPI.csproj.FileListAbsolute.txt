@@ -1,0 +1,7 @@
+C:\Users\omer6\source\repos\TaylorSwiftAPI\TaylorSwiftAPI\bin\Debug\TaylorSwiftAPI.exe.config
+C:\Users\omer6\source\repos\TaylorSwiftAPI\TaylorSwiftAPI\bin\Debug\TaylorSwiftAPI.exe
+C:\Users\omer6\source\repos\TaylorSwiftAPI\TaylorSwiftAPI\bin\Debug\TaylorSwiftAPI.pdb
+C:\Users\omer6\source\repos\TaylorSwiftAPI\TaylorSwiftAPI\obj\Debug\TaylorSwiftAPI.csprojAssemblyReference.cache
+C:\Users\omer6\source\repos\TaylorSwiftAPI\TaylorSwiftAPI\obj\Debug\TaylorSwiftAPI.csproj.CoreCompileInputs.cache
+C:\Users\omer6\source\repos\TaylorSwiftAPI\TaylorSwiftAPI\obj\Debug\TaylorSwiftAPI.exe
+C:\Users\omer6\source\repos\TaylorSwiftAPI\TaylorSwiftAPI\obj\Debug\TaylorSwiftAPI.pdb
